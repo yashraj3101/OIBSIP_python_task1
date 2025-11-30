@@ -21,3 +21,7 @@ if __name__ == "__main__":
     print("your password is: ")
     #print("".join(s[0:plen]))
     print("".join(random.sample(s,plen)))
+
+
+    
+
